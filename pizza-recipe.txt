@@ -1,0 +1,6 @@
+Ingredients:
+ - Chesse
+ - Pepperoni
+
+Directions:
+  1. Bake al the ingredients in a oven.
